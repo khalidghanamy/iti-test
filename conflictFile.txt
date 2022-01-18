@@ -1,9 +1,6 @@
 hello iti 
 from khalid 
-<<<<<<< HEAD
 to iti
 
 the end is here
-=======
 to iti reem-line
->>>>>>> 8f1146f8580185ad83482495b6366de450ca2035
