@@ -2,5 +2,9 @@
 hello world
 
 khalid gamal hamed
+<<<<<<< HEAD
 resolve
+=======
+hello git hup
+>>>>>>> 01258874ea589d9501f3a99cbac11d7cc3d9d62f
 
